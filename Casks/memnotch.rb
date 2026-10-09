@@ -7,7 +7,7 @@ cask "memnotch" do
   desc "Notch utility app for internal use"
   homepage "https://github.com/mem-shibata/MemNotch-releases"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "MemNotch.app"
 

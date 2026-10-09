@@ -4,7 +4,9 @@
 
 ```sh
 # インストール
-brew install --cask mem-shibata/memnotch/memnotch
+brew tap mem-shibata/memnotch
+brew trust --tap mem-shibata/memnotch   # Homebrew にこの tap を信頼させる設定
+brew install --cask memnotch
 
 # 更新
 brew upgrade --cask memnotch
