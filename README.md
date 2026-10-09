@@ -1,6 +1,6 @@
 # homebrew-memnotch
 
-社内向けアプリ [MemNotch](https://github.com/mem-shibata/MemNotch-releases) の Homebrew tap です。
+NotchをRichにする [MemNotch](https://github.com/mem-shibata/MemNotch-releases) の Homebrew tap です。
 
 ```sh
 # インストール
