@@ -1,6 +1,6 @@
 cask "memnotch" do
-  version "1.2.0"
-  sha256 "b81887a162bb75c228f307b9604bf91ede0d72d615fbb9e0f2cb2e3881c45f79"
+  version "1.3.0"
+  sha256 "e15b8039cc8c417b50a4379e2fbd7b1ed4516e418b6bc44e8c2d538e5176a960"
 
   url "https://github.com/mem-shibata/MemNotch-releases/releases/download/v#{version}/MemNotch-#{version}.zip"
   name "MemNotch"
